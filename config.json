@@ -1,0 +1,9 @@
+{ 
+    "mysql": {
+        "host": "localhost",
+        "user": "emma",
+        "password": "shaoruijuan",
+        "database": "car"
+    },
+    "qq_key": "SUSBZ-ONXWS-KMLOF-63UMH-ME6YZ-44BOP"
+}
